@@ -1,2 +1,2 @@
 # Greetings!
-# This is Evelyn, Zihan Zhu.
+This is Evelyn, Zihan Zhu.
